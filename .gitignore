@@ -1,0 +1,53 @@
+# Python
+
+__pycache__/
+
+*.pyc
+
+*.pyo
+
+*.pyd
+
+*.db
+
+*.sqlite3
+
+*.log
+
+
+
+# Прочие временные файлы
+
+*.bak
+
+*.swp
+
+*.swo
+
+*.tmp
+
+*.pid
+
+*.idea/
+
+.vscode/
+
+*.env
+
+
+
+# Docker
+
+*.log
+
+docker-compose.override.yml
+
+docker-compose.yml.bak
+
+
+
+# Секретные файлы
+
+.env
+
+

@@ -1,0 +1,53 @@
+# Python
+
+__pycache__/
+
+*.pyc
+
+*.pyo
+
+*.pyd
+
+
+
+# Логи
+
+*.log
+
+
+
+# Временные файлы
+
+*.bak
+
+*.swp
+
+*.swo
+
+*.tmp
+
+*.pid
+
+
+
+# Файлы конфигурации IDE
+
+.idea/
+
+.vscode/
+
+
+
+# .env
+
+.env
+
+
+
+# Docker
+
+docker-compose.override.yml
+
+*.bak
+
+
